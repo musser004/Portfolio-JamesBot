@@ -8,3 +8,5 @@ Description: Bot that does the following once a day via PythonAnywhere:
 - Finally, the bot sends a message via text message (Twilio) and/or email (smtplib)
 
 Python Libraries : Random, Datetime, Twilio, smtplib
+
+NOTE: Application requires environmental variables (not included) in order to run properly
