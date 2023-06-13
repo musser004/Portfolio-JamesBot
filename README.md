@@ -1,5 +1,7 @@
 # Project: JamesBot (Automation)
 
+Demo video: https://youtu.be/yhpD-F0seTo
+
 Description: Bot that does the following once a day via PythonAnywhere:
 - Picks a random person from a contact list (contact details on environmental variables)
 - Picks a random message from a list of templates. Messages include a compliment and a dumb joke about robots taking over the world
